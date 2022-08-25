@@ -1,4 +1,7 @@
 # Playwrigth tests 
-clone the App 
-Install the dependencies: `npm install`
-run the tests: `npx playwright test`
+
+- Clone the App
+
+- Install the dependencies: `npm install`
+
+- Run the tests: `npx playwright test`
