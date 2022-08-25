@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+dist/
+coverage/
+
+yarn-error.log
+
+.env
+.env.test
+
+newrelic_agent.log
